@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Integration1R2</string>
+    <string name="about"><![CDATA[                     The computerization of the hostel helps us to know the information about KEC Hostels. It had an details about hostel names, hostel facilities, hostel infrastructure like room counts, room types etc. The contact information for hostel wardens, deputy wardens, and administrator are also available. They also show the rules & regulations, hostel timings and fee details. We are maintaining the student records for identify the student room number, student name etc.
+    The KEC provides hostels for both boys and girls separately. They will separate with rules and regulations, fee structures, and timings. This application will show the details about both boys and girls hostels. Wi-Fi facilities are available for both boys and girls hostel. The boys hostel names are Dheeran , Kamban, Valluvar, Bharathi, Elango, Ponnar and Shankar. The girls hostel names are Amaravathi, Kaveri, Vaigai and Bhavani.]]></string>
+
+    <string-array name="Hostels">
+        <item>Select Hostel</item>
+        <item>Amaravathi</item>
+        <item>Kaveri</item>
+        <item>Vaigai</item>
+        <item>Bhavani</item>
+        <item>Dheeran</item>
+        <item>Bharathi</item>
+        <item>Kamban</item>
+        <item>Valluvar</item>
+        <item>Elango</item>
+        <item>Ponnar</item>
+        <item>Sankar</item>
+    </string-array>
+
+</resources>
